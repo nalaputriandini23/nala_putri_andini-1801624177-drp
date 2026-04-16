@@ -1,5 +1,5 @@
 ===============
-Nama: <Nala Putri Andini>
+Nama: Nala Putri Andini
 
-NIM: <1801624177>
+NIM: 1801624177
 ===============
